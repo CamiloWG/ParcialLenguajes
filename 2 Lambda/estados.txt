@@ -1,0 +1,2 @@
+
+printf("%d %d", lambda_call_found, lambda_def_found);
